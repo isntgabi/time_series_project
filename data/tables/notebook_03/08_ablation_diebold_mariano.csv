@@ -1,0 +1,9 @@
+DM_stat,p_value,n,mean_loss_diff,comparison,model_1,model_2,decision_5pct
+2.210964246806623,0.02703831301677284,515,0.0007260331440714207,Ridge: sentiment effect without VIX,Ridge_FIN_noVIX_withSent,Ridge_FIN_noVIX_noSent,different predictive accuracy
+5.370927029483281,7.833290394110293e-08,515,0.035593757499547754,MLP: sentiment effect without VIX,MLP_FIN_noVIX_withSent,MLP_FIN_noVIX_noSent,different predictive accuracy
+2.8905280535776323,0.0038459520333249397,515,0.0010544206882892788,Ridge: sentiment effect with VIX,Ridge_FIN_withVIX_withSent,Ridge_FIN_withVIX_noSent,different predictive accuracy
+3.491436048777461,0.000480431463091735,515,0.03492612527330865,MLP: sentiment effect with VIX,MLP_FIN_withVIX_withSent,MLP_FIN_withVIX_noSent,different predictive accuracy
+1.404117406780375,0.16028389102317142,515,0.0024398153564154936,Ridge: VIX effect without sentiment,Ridge_FIN_withVIX_noSent,Ridge_FIN_noVIX_noSent,no significant difference
+2.8385813908496202,0.004531456112787602,515,0.043316552500631794,MLP: VIX effect without sentiment,MLP_FIN_withVIX_noSent,MLP_FIN_noVIX_noSent,different predictive accuracy
+1.5716951275453068,0.11602127272711993,515,0.002768202900633352,Ridge: VIX effect with sentiment,Ridge_FIN_withVIX_withSent,Ridge_FIN_noVIX_withSent,no significant difference
+3.1200962902120737,0.0018079193024926887,515,0.042648920274392675,MLP: VIX effect with sentiment,MLP_FIN_withVIX_withSent,MLP_FIN_noVIX_withSent,different predictive accuracy

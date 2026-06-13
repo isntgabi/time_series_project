@@ -1,0 +1,5 @@
+DM_stat,p_value,n,mean_loss_diff,model_1,model_2,loss,decision_5pct
+-0.2287211287211972,0.8190856717087898,515,-9.488542061214576e-05,HAR-RV-X,HAR-RV,squared,no significant difference
+10.502354723048388,0.0,515,0.232671172299457,MLP with sentiment,MLP no sentiment,squared,different predictive accuracy
+4.7412323683385225,2.1242212848715525e-06,519,0.13739975048183392,RNN with sentiment,RNN no sentiment,squared,different predictive accuracy
+-0.22227722545505596,0.8240980801154465,519,-0.005952284184906801,LSTM with sentiment,LSTM no sentiment,squared,no significant difference

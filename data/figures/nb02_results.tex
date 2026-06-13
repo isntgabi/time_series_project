@@ -1,0 +1,23 @@
+\begin{tabular}{lrrr}
+\toprule
+ & RMSE & MAE & QLIKE \\
+\midrule
+ETS_Holt & 0.7974 & 0.5881 & - \\
+StateSpace_LLT & 0.7982 & 0.5902 & - \\
+StateSpace_LL & 0.7987 & 0.5909 & - \\
+ETS_SES & 0.7987 & 0.5909 & - \\
+Naive_mean & 0.7987 & 0.5909 & - \\
+SARIMA(1,0,1)(1,0,1)[5] & 0.7990 & 0.5912 & - \\
+NNAR(5,16) & 0.8082 & 0.5955 & - \\
+ETS_Holt-Winters & 0.8095 & 0.5938 & - \\
+SETAR(tau=0.381) & 0.8118 & 0.6074 & - \\
+ARIMA(3, 0, 3) & 0.8229 & 0.6203 & - \\
+ETS_Holt-Winters_rv & 0.9842 & 0.7450 & - \\
+ETS_SES_rv & 1.1992 & 0.8748 & - \\
+ETS_Holt_rv & 1.2287 & 0.9746 & - \\
+GJR-GARCH(1,1)_vol & 1.3703 & 1.0852 & 1.8533 \\
+GARCH(1,1)_vol & 1.6633 & 1.4616 & 2.0270 \\
+ARCH(5)_vol & 2.1300 & 1.9705 & 2.2268 \\
+GARCH(1,1)-t_vol & 2.2870 & 2.0407 & 2.2202 \\
+\bottomrule
+\end{tabular}

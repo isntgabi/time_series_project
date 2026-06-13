@@ -1,0 +1,15 @@
+series,n,ADF_pvalue,ADF_decision,KPSS_pvalue,KPSS_decision,PP_pvalue,PP_decision
+adj_close,1216,0.6715185648743052,unit root likely,0.01,non-stationary likely,0.7022379708081012,unit root likely
+log_price,1216,0.6298564118262915,unit root likely,0.01,non-stationary likely,0.6750080815979694,unit root likely
+r_t,1216,5.490626721966842e-19,I(0) / stationary,0.1,stationary,0.0,I(0) / stationary
+r_t_sq,1216,2.897285581861418e-07,I(0) / stationary,0.1,stationary,0.0,I(0) / stationary
+abs_r_t,1216,4.582264154609535e-06,I(0) / stationary,0.1,stationary,0.0,I(0) / stationary
+rv_22d,1216,0.050800203338263225,unit root likely,0.1,stationary,0.0020452850063030037,I(0) / stationary
+vix,1216,0.0012724993017829023,I(0) / stationary,0.01,non-stationary likely,7.06299403604021e-05,I(0) / stationary
+d_vix,1216,1.9336234240250517e-21,I(0) / stationary,0.1,stationary,0.0,I(0) / stationary
+S_polarity,1216,1.567898474757482e-06,I(0) / stationary,0.1,stationary,0.0,I(0) / stationary
+S_mean,1216,4.285822667025035e-06,I(0) / stationary,0.1,stationary,0.0,I(0) / stationary
+S_sum,1216,3.7916396925174175e-12,I(0) / stationary,0.04237863304146951,non-stationary likely,0.0,I(0) / stationary
+neg_share,1216,9.014551329047358e-06,I(0) / stationary,0.042125390891736225,non-stationary likely,0.0,I(0) / stationary
+pos_share,1216,0.0,I(0) / stationary,0.01,non-stationary likely,0.0,I(0) / stationary
+n_articles,1216,0.0009014674810309719,I(0) / stationary,0.01,non-stationary likely,0.0,I(0) / stationary

@@ -1,0 +1,4 @@
+test,pvalue,decision_5pct
+Ljung-Box residuals lag 10,0.1611101315186024,do not reject H0
+Ljung-Box squared residuals lag 10,3.0649014774391476e-258,reject H0
+ARCH-LM residuals,6.945021620645963e-76,reject H0

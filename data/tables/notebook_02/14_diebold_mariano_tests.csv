@@ -1,0 +1,3 @@
+DM_stat,p_value,n,mean_loss_diff,target,model_1,model_2,loss,decision_5pct
+0.04562987625080381,0.9636052561615449,522,0.00018900181556176718,r_t,"ARIMA(4, 0, 2)",Zero return forecast,squared,no significant difference
+-52.09621580752087,0.0,522,-17.55365805441453,rv_22d,SETAR(1) RV_22d,Naive RV forecast,squared,different accuracy

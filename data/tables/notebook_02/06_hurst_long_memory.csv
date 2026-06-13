@@ -1,0 +1,5 @@
+series,Hurst_RS,interpretation
+r_t,0.5461903435417417,near random walk
+r_t_sq,0.8251309520975527,persistent / long-memory indication
+abs_r_t,0.8723600662111961,persistent / long-memory indication
+rv_22d,0.9751700641323153,persistent / long-memory indication

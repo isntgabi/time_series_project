@@ -1,0 +1,3 @@
+test,pvalue,decision_5pct
+Ljung-Box std resid lag 10,0.3962923580924198,do not reject H0
+Ljung-Box std resid^2 lag 10,0.7449541273650315,do not reject H0

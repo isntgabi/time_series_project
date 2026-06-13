@@ -1,0 +1,5 @@
+Test,p-value min,Semnificativ?,Intrebare
+S -> r_t,0.5391,Nu,Sentimentul prezice randamentele?
+S -> r_t_sq,0.0065,DA **,Sentimentul prezice volatilitatea?
+r_t -> S,0.0858,Marginal *,Piata prezice sentimentul?
+r_t_sq -> S,0.002,DA **,Volatilitatea prezice sentimentul?
